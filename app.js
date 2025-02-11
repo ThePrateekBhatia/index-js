@@ -5584,7 +5584,7 @@ function init() {
     html += `
     <div style="margin-bottom: 20px" class="mdui-center mdui-text-center">
       <a href="https://t.me/MirroringBots" target="_blank">
-        <img src="https://img.shields.io/static/v1?label=Freaky&amp;message=CookedIndex&amp;color=1E89F2&amp;labelColor=374455&amp;logo=github" alt="Freaky - Cooked Index">
+        <img src="https://img.shields.io/static/v1?label=Freaky&amp;message=CookedIndex&amp;color=1E89F2&amp;labelColor=374455&amp;logo=telegram" alt="Freaky - Cooked Index">
       </a>
     </div>
     </div>
